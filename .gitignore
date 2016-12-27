@@ -1,0 +1,12 @@
+*
+!/sdvx/
+!/sdvx/*
+!/incompleteChart/
+!/incompleteChart/*
+!*.ksh
+!*.ogg
+!*.jpg
+!*.png
+!*.md
+!.gitignore
+!.gitattributes
